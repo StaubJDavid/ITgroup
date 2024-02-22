@@ -1,0 +1,2 @@
+# Sets the rotation speed of the fan
+speed = 1
